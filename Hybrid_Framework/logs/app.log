@@ -1,0 +1,28 @@
+2025-09-29 18:28:30 [main] INFO  com.Utilities.MyListner - Test Suite Started
+2025-09-29 18:29:17 [main] INFO  com.Utilities.MyListner - Test Case Execution startedtestLogin
+2025-09-29 18:29:22 [main] INFO  com.Utilities.MyListner - Test Case FailtestLogin
+2025-09-29 18:29:55 [main] INFO  com.Utilities.MyListner - Test Case Execution startedtestLogin
+2025-09-29 18:29:55 [main] INFO  com.Utilities.MyListner - Test Case PasstestLogin
+2025-09-29 18:30:45 [main] INFO  com.Utilities.MyListner - Test Case Execution startedtestLogin
+2025-09-29 18:30:48 [main] INFO  com.Utilities.MyListner - Test Case FailtestLogin
+2025-09-29 18:31:24 [main] INFO  com.Utilities.MyListner - Test Case Execution startedtestLogin
+2025-09-29 18:31:24 [main] INFO  com.Utilities.MyListner - Test Case PasstestLogin
+2025-09-29 18:32:00 [main] INFO  com.Utilities.MyListner - Test Case Execution startedtestLogin
+2025-09-29 18:32:01 [main] INFO  com.Utilities.MyListner - Test Case PasstestLogin
+2025-09-29 18:32:47 [main] INFO  com.Utilities.MyListner - Test Case Execution startedtestLogin
+2025-09-29 18:32:48 [main] INFO  com.Utilities.MyListner - Test Case FailtestLogin
+2025-09-29 18:32:48 [main] INFO  com.Utilities.MyListner - Test Suite Completed
+2025-09-29 18:48:15 [main] INFO  com.Utilities.MyListner - Test Suite Started
+2025-09-29 18:48:59 [main] INFO  com.Utilities.MyListner - Test Case Execution startedtestLogin
+2025-09-29 18:49:03 [main] INFO  com.Utilities.MyListner - Test Case FailtestLogin
+2025-09-29 18:49:57 [main] INFO  com.Utilities.MyListner - Test Case Execution startedtestLogin
+2025-09-29 18:49:58 [main] INFO  com.Utilities.MyListner - Test Case PasstestLogin
+2025-09-29 18:50:43 [main] INFO  com.Utilities.MyListner - Test Case Execution startedtestLogin
+2025-09-29 18:50:45 [main] INFO  com.Utilities.MyListner - Test Case FailtestLogin
+2025-09-29 18:51:21 [main] INFO  com.Utilities.MyListner - Test Case Execution startedtestLogin
+2025-09-29 18:51:21 [main] INFO  com.Utilities.MyListner - Test Case PasstestLogin
+2025-09-29 18:52:09 [main] INFO  com.Utilities.MyListner - Test Case Execution startedtestLogin
+2025-09-29 18:52:10 [main] INFO  com.Utilities.MyListner - Test Case PasstestLogin
+2025-09-29 18:52:43 [main] INFO  com.Utilities.MyListner - Test Case Execution startedtestLogin
+2025-09-29 18:52:44 [main] INFO  com.Utilities.MyListner - Test Case FailtestLogin
+2025-09-29 18:52:44 [main] INFO  com.Utilities.MyListner - Test Suite Completed
